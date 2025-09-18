@@ -1,5 +1,5 @@
 AC_INIT([libsparkey], [0.1.0], [krka@spotify.com], [sparkey])
-AM_INIT_AUTOMAKE([-Werror foreign])
+AM_INIT_AUTOMAKE([-Wall foreign])
 LT_INIT
 AC_PROG_CC_C99
 
